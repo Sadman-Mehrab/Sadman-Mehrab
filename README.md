@@ -25,3 +25,6 @@
 <h3 align="left">Competitive Programming and Problem Solving:</h3>
 
 ![](https://leetcard.jacoblin.cool/sadmannaqueeb?theme=nord&font=Alef&ext=heatmap)
+
+![](https://raw.githubusercontent.com/sadman-mehrab/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
