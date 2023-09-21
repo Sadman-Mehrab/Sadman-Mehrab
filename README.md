@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadman Mehrab</h1>
-<h3 align="center">Undergrad CSE student interested in problem solving, fullstack development and AI/ML.</h3>
+<h3 align="center">An undergrad CSE student interested in problem solving, fullstack development and AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-mehrab&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-mehrab" /> </p>
+
+- 🌱 Currently working at www.wreadr.com
 
 - 📫 Reach me at **sadmannaqueeb@gmail.com**
 
@@ -25,4 +27,3 @@
 ![](https://leetcard.jacoblin.cool/sadmannaqueeb?theme=nord&font=Alef&ext=heatmap)
 
 ![](https://raw.githubusercontent.com/sadman-mehrab/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
