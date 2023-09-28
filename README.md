@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-mehrab&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-mehrab" /> </p>
 
-- 🌱 Currently working at www.wreadr.com
+
 
 - 📫 Reach me at **sadmannaqueeb@gmail.com**
 
