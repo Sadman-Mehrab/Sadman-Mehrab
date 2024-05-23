@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sadman Mehrab</h1>
-<h3 align="center">Undergrad CSE student interested in problem solving, software engineering and AI/ML</h3>
+<h3 align="center">Undergrad CSE student interested in problem solving, backend engineering and AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-mehrab&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-mehrab" /> </p>
 
 
-
-- 🛠️ Currently working on **www.wreadr.com**
 
 - 📫 Reach me at **sadmannaqueeb@gmail.com**
 
