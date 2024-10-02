@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋, I'm Sadman Mehrab</h1>
-<h4 align="left">Undergrad CSE student interested in problem solving, backend engineering and AI/ML.</h3>
+<h4 align="left">Trainee Software Engineer @ WellDev | Interested in Backend Engineering and Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-mehrab&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-mehrab" /> </p>
 
-- ⚒️ Currently working on **[fin-fam](https://finfam.vercel.app/)**
+- ⚒️ Working on a side project called **[fin-fam](https://finfam.vercel.app/)**
 
 - 📫 Reach me at **sadmannaqueeb@gmail.com**
 
