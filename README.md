@@ -9,7 +9,7 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sadman_mehrab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadman_mehrab" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/sadman_mehrab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadman_mehrab" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/sadman-mehrab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadman-mehrab" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sadmannaqueeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sadmannaqueeb" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/caged.maverick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="caged.maverick" height="30" width="40" /></a> -->
